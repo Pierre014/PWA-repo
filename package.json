@@ -13,7 +13,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "gulp serve",
-    "start": "node gulpfile",
+    "start": "node ../gulpfile.js",
     "postinstall": "gulp default"
 
   },
